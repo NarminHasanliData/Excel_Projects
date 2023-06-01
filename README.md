@@ -1,1 +1,1 @@
-# I will place my Excel projects here
+# I place my Excel projects here.
